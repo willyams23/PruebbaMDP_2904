@@ -1,9 +1,0 @@
-C:\Users\William\source\repos\PruebaNet02\MDP.Core\bin\Debug\netcoreapp3.1\MDP.Core.deps.json
-C:\Users\William\source\repos\PruebaNet02\MDP.Core\bin\Debug\netcoreapp3.1\MDP.Core.dll
-C:\Users\William\source\repos\PruebaNet02\MDP.Core\bin\Debug\netcoreapp3.1\MDP.Core.pdb
-C:\Users\William\source\repos\PruebaNet02\MDP.Core\obj\Debug\netcoreapp3.1\MDP.Core.AssemblyInfoInputs.cache
-C:\Users\William\source\repos\PruebaNet02\MDP.Core\obj\Debug\netcoreapp3.1\MDP.Core.AssemblyInfo.cs
-C:\Users\William\source\repos\PruebaNet02\MDP.Core\obj\Debug\netcoreapp3.1\MDP.Core.csproj.CoreCompileInputs.cache
-C:\Users\William\source\repos\PruebaNet02\MDP.Core\obj\Debug\netcoreapp3.1\MDP.Core.dll
-C:\Users\William\source\repos\PruebaNet02\MDP.Core\obj\Debug\netcoreapp3.1\MDP.Core.pdb
-C:\Users\William\source\repos\PruebaNet02\MDP.Core\obj\Debug\netcoreapp3.1\MDP.Core.csprojAssemblyReference.cache
