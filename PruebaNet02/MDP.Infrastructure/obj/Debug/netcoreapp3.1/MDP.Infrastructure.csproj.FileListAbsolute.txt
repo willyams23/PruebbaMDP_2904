@@ -1,0 +1,15 @@
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\bin\Debug\netcoreapp3.1\MDP.Infrastructure.deps.json
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\bin\Debug\netcoreapp3.1\MDP.Infrastructure.runtimeconfig.json
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\bin\Debug\netcoreapp3.1\MDP.Infrastructure.runtimeconfig.dev.json
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\bin\Debug\netcoreapp3.1\MDP.Infrastructure.dll
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\bin\Debug\netcoreapp3.1\MDP.Infrastructure.pdb
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\bin\Debug\netcoreapp3.1\MDP.Core.dll
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\bin\Debug\netcoreapp3.1\MDP.Core.pdb
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\obj\Debug\netcoreapp3.1\MDP.Infrastructure.csprojAssemblyReference.cache
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\obj\Debug\netcoreapp3.1\MDP.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\obj\Debug\netcoreapp3.1\MDP.Infrastructure.AssemblyInfo.cs
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\obj\Debug\netcoreapp3.1\MDP.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\obj\Debug\netcoreapp3.1\MDP.Infrastructure.csproj.CopyComplete
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\obj\Debug\netcoreapp3.1\MDP.Infrastructure.dll
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\obj\Debug\netcoreapp3.1\MDP.Infrastructure.pdb
+C:\Users\William\source\repos\PruebaNet02\MDP.Infrastructure\obj\Debug\netcoreapp3.1\MDP.Infrastructure.genruntimeconfig.cache
